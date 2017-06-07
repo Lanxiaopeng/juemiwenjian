@@ -1,2 +1,3 @@
 # juemiwenjian
-#include<stdio.ch>
+#include<stdio.
+zainide shiejil shizenayng duidai gangoqong 
